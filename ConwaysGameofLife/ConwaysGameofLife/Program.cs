@@ -2,8 +2,8 @@
 {
     class Program
     {
-        static int GridWidth = 20;
-        static int GridHeight = 20;
+        static int GridWidth = 80;
+        static int GridHeight = 25;
         static bool[,] currentGeneration = new bool[GridWidth, GridHeight];
         static bool[,] nextGeneration = new bool[GridWidth, GridHeight];
         static Random random = new Random();
@@ -18,8 +18,8 @@
                 Console.Clear();
                 DisplayGrid();
                 UpdateGrid();
-                System.Threading.Thread.Sleep(100); // Adjust the delay 
-                                                    //to control the speed.
+                System.Threading.Thread.Sleep(500); // Adjust the delay 
+                Thread.Sleep(200);                 //to control the speed.
             }
         }
 

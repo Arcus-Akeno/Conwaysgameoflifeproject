@@ -1,0 +1,15 @@
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\bin\Debug\net8.0\ConwaysGameofLife.exe
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\bin\Debug\net8.0\ConwaysGameofLife.deps.json
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\bin\Debug\net8.0\ConwaysGameofLife.runtimeconfig.json
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\bin\Debug\net8.0\ConwaysGameofLife.dll
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\bin\Debug\net8.0\ConwaysGameofLife.pdb
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\obj\Debug\net8.0\ConwaysGameofLife.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\obj\Debug\net8.0\ConwaysGameofLife.AssemblyInfoInputs.cache
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\obj\Debug\net8.0\ConwaysGameofLife.AssemblyInfo.cs
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\obj\Debug\net8.0\ConwaysGameofLife.csproj.CoreCompileInputs.cache
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\obj\Debug\net8.0\ConwaysGameofLife.sourcelink.json
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\obj\Debug\net8.0\ConwaysGameofLife.dll
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\obj\Debug\net8.0\refint\ConwaysGameofLife.dll
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\obj\Debug\net8.0\ConwaysGameofLife.pdb
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\obj\Debug\net8.0\ConwaysGameofLife.genruntimeconfig.cache
+D:\Jacob Coldicott\GitHub Repo\ConwaysGameofLife\Conwaysgameoflifeproject\ConwaysGameofLife\ConwaysGameofLife\obj\Debug\net8.0\ref\ConwaysGameofLife.dll
